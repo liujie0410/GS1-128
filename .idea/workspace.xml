@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GS1-128:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abaae101-a773-4413-9d6b-5829ffc9f840" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index_count</find>
+      <find>moduleType</find>
+      <find>testvalue</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1dwUfpXmUCaCnPhslRC7uaTq983" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GS1-128" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI" />
+      <module name="GS1-128" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="charAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="charAction" />
+      <module name="GS1-128" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UI" />
+        <item itemvalue="Application.charAction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abaae101-a773-4413-9d6b-5829ffc9f840" name="Default Changelist" comment="" />
+      <created>1589343047507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589343047507</updated>
+      <workItem from="1589343050756" duration="13000" />
+      <workItem from="1589357282362" duration="534000" />
+      <workItem from="1589357985605" duration="721000" />
+      <workItem from="1589358796885" duration="1739000" />
+      <workItem from="1589360581293" duration="193000" />
+      <workItem from="1589361672162" duration="836000" />
+      <workItem from="1589363102722" duration="1152000" />
+      <workItem from="1589366753190" duration="1727000" />
+      <workItem from="1589368566272" duration="863000" />
+      <workItem from="1589369463628" duration="1738000" />
+      <workItem from="1589371308998" duration="1284000" />
+      <workItem from="1589372779240" duration="611000" />
+      <workItem from="1589373894008" duration="1629000" />
+      <workItem from="1589375706993" duration="1549000" />
+      <workItem from="1589377290639" duration="68000" />
+      <workItem from="1589420727410" duration="332000" />
+      <workItem from="1589427528338" duration="660000" />
+      <workItem from="1589441840849" duration="1777000" />
+      <workItem from="1589443653562" duration="1766000" />
+      <workItem from="1589445465207" duration="1342000" />
+      <workItem from="1589446971177" duration="1762000" />
+      <workItem from="1589448783671" duration="1072000" />
+      <workItem from="1589451397070" duration="1776000" />
+      <workItem from="1589453212827" duration="386000" />
+      <workItem from="1589455225943" duration="1709000" />
+      <workItem from="1589457038149" duration="1512000" />
+      <workItem from="1589458847262" duration="689000" />
+      <workItem from="1589459583979" duration="430000" />
+      <workItem from="1589461562438" duration="231000" />
+      <workItem from="1589461988775" duration="1173000" />
+      <workItem from="1589465866905" duration="841000" />
+      <workItem from="1589467058606" duration="1663000" />
+      <workItem from="1589468870974" duration="1778000" />
+      <workItem from="1589470688087" duration="1778000" />
+      <workItem from="1589472500371" duration="1777000" />
+      <workItem from="1589474310473" duration="1749000" />
+      <workItem from="1589476321028" duration="431000" />
+      <workItem from="1589527626025" duration="1761000" />
+      <workItem from="1589529432641" duration="406000" />
+      <workItem from="1589683425383" duration="7000" />
+      <workItem from="1589683457537" duration="415000" />
+      <workItem from="1589683941634" duration="274000" />
+      <workItem from="1589684310912" duration="1562000" />
+      <workItem from="1589686159495" duration="1930000" />
+      <workItem from="1589688864260" duration="333000" />
+      <workItem from="1589689255405" duration="323000" />
+      <workItem from="1589696034665" duration="1768000" />
+      <workItem from="1589697842329" duration="1751000" />
+      <workItem from="1589699654913" duration="1731000" />
+      <workItem from="1589701472334" duration="1709000" />
+      <workItem from="1589703284249" duration="1782000" />
+      <workItem from="1589705100406" duration="1778000" />
+      <workItem from="1589706924846" duration="172000" />
+      <workItem from="1589707144738" duration="243000" />
+      <workItem from="1589707523683" duration="69000" />
+      <workItem from="1589708241860" duration="986000" />
+      <workItem from="1589709497339" duration="4000" />
+      <workItem from="1589709569326" duration="1638000" />
+      <workItem from="1589711386151" duration="930000" />
+      <workItem from="1589712528449" duration="274000" />
+      <workItem from="1589713324830" duration="809000" />
+      <workItem from="1589715388016" duration="508000" />
+      <workItem from="1589718474709" duration="1765000" />
+      <workItem from="1589720361351" duration="1654000" />
+      <workItem from="1589722183525" duration="185000" />
+      <workItem from="1589722435482" duration="1055000" />
+      <workItem from="1589723632610" duration="770000" />
+      <workItem from="1589729752904" duration="236000" />
+      <workItem from="1590744305623" duration="353000" />
+      <workItem from="1593335763994" duration="402000" />
+      <workItem from="1594108476808" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="162" key="#Notifications" timestamp="1593335777071">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="308" y="162" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1593335777071" />
+    <state x="403" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1594108476338">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="403" y="329" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1594108476338" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>GS1-128:jar2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GS1-128</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
